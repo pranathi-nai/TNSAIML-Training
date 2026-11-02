@@ -1,10 +1,10 @@
 # TNSAIML-Training
 
-## AeroSense: AI-Powered Air Quality Prediction and Environmental Monitoring System
+## Air Quality Prediction and Environmental Monitoring System
 
 **Air Quality Prediction and Monitoring using Machine Learning**
 
-AeroSense is a Streamlit-based project for air-quality analysis and prediction using machine learning. It is designed to combine pollutant data, AQI prediction, interactive visualizations, and live atmospheric data.
+AQI is a Streamlit-based project for air-quality analysis and prediction using machine learning. It is designed to combine pollutant data, AQI prediction, interactive visualizations, and live atmospheric data.
 
 ### Features
 
